@@ -1,8 +1,8 @@
-# ✨ Swetha Guruju  
+<h1 align="center">𝑺𝒘𝒆𝒕𝒉𝒂 𝑮𝒖𝒓𝒖𝒋𝒖</h1>
 
-💻 Software Engineer  
-☁️ Backend Systems • Cloud Architecture • API Performance  
-📍 Charlotte, NC  
+<p align="center">
+Software Engineer • Backend Systems • Cloud Architecture   📍 Charlotte, NC 
+</p>
 
 ---
 
